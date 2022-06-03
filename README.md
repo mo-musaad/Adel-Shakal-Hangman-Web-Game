@@ -7,7 +7,7 @@
 - CSS
 - Bootstrap
 - Pure javascript 
-- The Main Concept creativity
+- The Main Concept "Creativity"
 
 ## You Can Try the game from this link :
 [AFSHAT Hangman Game](https://mo-musaad.github.io/Hangman-AFSHAT-Movies-game/)
